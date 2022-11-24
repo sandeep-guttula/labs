@@ -1,4 +1,4 @@
-package exp2;
+package exp2.bitStuffing;
 import java.util.*;
 class BitStuffing {
   public static void main(String args[]) {
