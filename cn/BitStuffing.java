@@ -1,4 +1,4 @@
-package exp2.bitStuffing;
+
 import java.util.*;
 class BitStuffing {
   public static void main(String args[]) {
@@ -35,6 +35,6 @@ class BitStuffing {
         cnt = 0;
       }
     }
-    System.out.println("Final Message : " + out);
+    System.out.println("Final Message : " + data);
   }
 }
